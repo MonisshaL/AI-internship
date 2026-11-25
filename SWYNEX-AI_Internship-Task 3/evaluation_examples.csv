@@ -1,0 +1,9 @@
+input,expected_behavior,note
+"When is the semester exam?",Academic,Normal classification example
+"I cannot log in to the college portal.",Technical,Normal classification example
+"How do I get a bonafide certificate?",Administrative,Normal classification example
+"Are internships available?",Placement,Normal classification example
+"",Validation error,Empty input should not be classified
+"12345 !!!",Validation error,Numbers and symbols only should be rejected
+"What is the weather today?",Uncertain or review,Out-of-scope detection is not guaranteed
+"Can I get the placement exam timetable?",Review,Potentially ambiguous across categories
