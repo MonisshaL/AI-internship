@@ -1,0 +1,33 @@
+query,category
+When is the semester exam?,Academic
+What is the syllabus for mathematics?,Academic
+When is the assignment due?,Academic
+How do I check attendance?,Academic
+When are exam results published?,Academic
+What topics are in the physics test?,Academic
+Can I get previous question papers?,Academic
+When is the project review?,Academic
+I cannot log in to the college portal.,Technical
+The website is not opening.,Technical
+How do I reset my password?,Technical
+The app keeps crashing.,Technical
+Campus Wi-Fi is not working.,Technical
+I get an error uploading a PDF.,Technical
+How do I install Python?,Technical
+The portal shows a blank screen.,Technical
+How do I get a bonafide certificate?,Administrative
+When is the fee payment deadline?,Administrative
+Where is the administrative office?,Administrative
+What documents are needed for admission?,Administrative
+How do I get a transfer certificate?,Administrative
+Can I request a fee receipt?,Administrative
+How do I apply for a student ID?,Administrative
+Where do I submit scholarship forms?,Administrative
+When is the campus placement drive?,Placement
+Are there internship opportunities?,Placement
+How do I register for placement training?,Placement
+Which companies are visiting campus?,Placement
+What skills are needed for software jobs?,Placement
+Where can I upload my resume?,Placement
+When is the mock interview?,Placement
+How do I prepare for technical interviews?,Placement
